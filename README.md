@@ -1,5 +1,5 @@
 
-# aplicativo de lista de bebidas  
+# Aplicativo de lista de bebidas  
 
 esse e meu ultimo  projeto com a mentora marcella para android do DEV VENTURE SEGUNDA EDIÇÃO
 Treinamento Android -VENTURUS
