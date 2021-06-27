@@ -7,7 +7,7 @@ PARCERIA - SHARERH COM A EMPRESA VENTURUS
 
  
 ## 🚀 Começando
-foi passado uma tarefa em grupo a principio de 4 pessoas eu mais 3 para construçao de um app espresso 
+foi passado uma tarefa em grupo a principio de 4 pessoas eu mais 3 para construçao de um app expresso 
 nos reunimos e decidimos que o aplicativo estaria pronto em 24 horas 
 como o tempo real para desenvolvimento foi de 40 minutos e mais algum agora a noite optei por desenvolver 
 no dojo e agora com restante do sabado escrever o readme e se possivel adicionar uma toobars
